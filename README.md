@@ -50,18 +50,30 @@ git clone https://github.com/SRNTHMZMD/MajorProject-IBM-Machine-Learning-Profess
 Install the required Python packages:
 pip install -r requirements.txt
 
-How to Run
+### Installation
+Clone the repository:
+
+### git clone https://github.com/SRNTHMZMD/MajorProject-IBM-Machine-Learning-Professional-Certificate.git
+cd MajorProject-IBM-Machine-Learning-Professional-Certificate
+
+Install dependencies: Ensure you have Python installed, then install the required packages:
+
+pip install -r requirements.txt
+
+### How to Run
+
 ### Data Preprocessing:
 
-Navigate to notebooks/preprocessing.ipynb and follow the steps for cleaning and preparing the dataset.
+Open notebooks/preprocessing.ipynb and run the cells to clean and preprocess the dataset.
 
 ### Model Training:
 
-Open notebooks/modeling.ipynb to train the machine learning models and evaluate their performance.
+Open notebooks/modeling.ipynb and run the cells to train the model using the provided dataset.
 
-### Results Visualization:
+### View Results:
 
-Confusion matrix and accuracy plots are available in the images/ folder.
+Results such as confusion matrix and accuracy plots are stored in the images/ folder.
+
 
 ### Conclusion
 This project successfully implemented machine learning techniques to detect defects in PCBs with high accuracy. Future improvements can include experimenting with deep learning models and using larger datasets.
