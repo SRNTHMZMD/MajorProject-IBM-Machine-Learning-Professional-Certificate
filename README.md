@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/e51b97ea-d634-4d8e-9aef-1c83ac87db86)
+
+
 ### Major Project - IBM Machine Learning Professional Certificate
 
 ### Project Title: Printed Circuit Board Defect Detection
@@ -46,19 +49,6 @@ SVM performed similarly but required more computation time.
 ### Installation
 Clone the repository:
 git clone https://github.com/SRNTHMZMD/MajorProject-IBM-Machine-Learning-Professional-Certificate.git
-
-Install the required Python packages:
-pip install -r requirements.txt
-
-### Installation
-Clone the repository:
-
-### git clone https://github.com/SRNTHMZMD/MajorProject-IBM-Machine-Learning-Professional-Certificate.git
-cd MajorProject-IBM-Machine-Learning-Professional-Certificate
-
-Install dependencies: Ensure you have Python installed, then install the required packages:
-
-pip install -r requirements.txt
 
 ### How to Run
 
