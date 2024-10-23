@@ -12,13 +12,13 @@
 | 05.    | [Deep Learning and Reinforcement Learning](https://github.com/SRNTHMZMD/MajorProject-IBM-Machine-Learning-Professional-Certificate/tree/main/5-Deep%20Learning%20and%20Reinforcement%20Learning)       | ✅     |
 | 06.    | [Specialized Models: Time Series and Survival Analysis](https://github.com/SRNTHMZMD/MajorProject-IBM-Machine-Learning-Professional-Certificate/tree/main/6-Machine%20Learning%20Capstone) | ✅  |
 
-### About this Professional Certificate:
+### About this Professional Certificate :
 
 The IBM Machine Learning Professional Certificate is designed to provide learners with a comprehensive foundation in machine learning. This program covers key concepts and techniques that are essential for building and applying machine learning models, with a focus on real-world applications.
 
 Throughout the program, learners will gain hands-on experience with popular tools like Python, Scikit-learn, and Jupyter Notebooks while working on practical projects. The curriculum includes supervised learning, unsupervised learning, deep learning, and reinforcement learning, as well as data preprocessing, model evaluation, and hyperparameter tuning.
 
-### Key learning outcomes include:
+### Learning Objectives :
 
 Understanding core machine learning concepts and algorithms.
 Developing and training models using real-world datasets.
@@ -26,7 +26,7 @@ Applying machine learning techniques to classification, regression, clustering, 
 Gaining practical experience with tools and frameworks used by professionals in the field.
 This certificate is ideal for those looking to start a career in machine learning or advance their skills in this fast-growing field.
 
-### Acknowledgments
+### Acknowledgments :
 IBM for providing course materials and certification.
 Coursera for hosting the IBM Machine Learning Professional Certificate.
 
