@@ -3,13 +3,14 @@
 
 ### IBM Machine Learning Professional Certificate
 
-Sr. No	Course	Status
-01.	Exploratory Data Analysis for Machine Learning	✅
-02.	Supervised Machine Learning: Regression	✅
-03.	Supervised Machine Learning: Classification	✅
-04.	Unsupervised Machine Learning	✅
-05.	Deep Learning and Reinforcement Learning	✅
-06.	Specialized Models: Time Series and Survival Analysis	✅
+| Sr. No | Course                                        | Status |
+|--------|-----------------------------------------------|--------|
+| 01.    | Exploratory Data Analysis for Machine Learning | ✅     |
+| 02.    | Supervised Machine Learning: Regression        | ✅     |
+| 03.    | Supervised Machine Learning: Classification    | ✅     |
+| 04.    | Unsupervised Machine Learning                  | ✅     |
+| 05.    | Deep Learning and Reinforcement Learning       | ✅     |
+| 06.    | Specialized Models: Time Series and Survival Analysis | ✅  |
 
 ### About this Professional Certificate:
 
