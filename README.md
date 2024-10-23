@@ -1,7 +1,7 @@
 <img width="219" alt="image" src="https://github.com/user-attachments/assets/4a102c05-c945-427c-aa69-c87ad5acaf11">
 
 
-### Major Project - IBM Machine Learning Professional Certificate
+### IBM Machine Learning Professional Certificate
 
 ### Project Title: Printed Circuit Board Defect Detection
 ### Overview
