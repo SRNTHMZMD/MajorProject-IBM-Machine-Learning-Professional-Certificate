@@ -1,6 +1,4 @@
-<img width="203" alt="image" src="https://github.com/user-attachments/assets/dfd81c29-1dd1-4778-9e47-01a5c4a7b034">
-
-
+<img width="219" alt="image" src="https://github.com/user-attachments/assets/4a102c05-c945-427c-aa69-c87ad5acaf11">
 
 
 ### Major Project - IBM Machine Learning Professional Certificate
