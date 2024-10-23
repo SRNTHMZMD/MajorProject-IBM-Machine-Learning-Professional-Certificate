@@ -74,3 +74,6 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 ### Acknowledgments
 IBM for providing course materials and certification.
 Coursera for hosting the IBM Machine Learning Professional Certificate.
+
+### Disclaimer
+The solutions offered are intended for reference only and should not be copied directly. If you follow the instructions cautiously, you can complete the programming assignments. Before verifying the answers, try the quizzes on your own. These machine learning classes are basic, with good material and organization.
