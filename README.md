@@ -5,12 +5,12 @@
 
 | Sr. No | Course                                        | Status |
 |--------|-----------------------------------------------|--------|
-| 01.    | [Exploratory Data Analysis for Machine Learning](https://github.com/SRNTHMZMD/MajorProject-IBM-Machine-Learning-Professional-Certificate/tree/main/Exploratory%20Data%20Analysis%20for%20Machine%20Learning) | ✅     |
-| 02.    | [Supervised Machine Learning: Regression](https://github.com/SRNTHMZMD/MajorProject-IBM-Machine-Learning-Professional-Certificate/tree/main/Supervised%20Machine%20Learning%20Regression)        | ✅     |
-| 03.    | [Supervised Machine Learning: Classification](https://github.com/SRNTHMZMD/MajorProject-IBM-Machine-Learning-Professional-Certificate/tree/main/Supervised%20Machine%20Learning%20Classification)    | ✅     |
-| 04.    | [Unsupervised Machine Learning](https://github.com/SRNTHMZMD/MajorProject-IBM-Machine-Learning-Professional-Certificate/tree/main/Unsupervised%20Machine%20Learning)                  | ✅     |
-| 05.    | [Deep Learning and Reinforcement Learning](https://github.com/SRNTHMZMD/MajorProject-IBM-Machine-Learning-Professional-Certificate/tree/main/Deep%20Learning%20and%20Reinforcement%20Learning)       | ✅     |
-| 06.    | [Specialized Models: Time Series and Survival Analysis](https://github.com/SRNTHMZMD/MajorProject-IBM-Machine-Learning-Professional-Certificate/tree/main/Specialized%20Models%20Time%20Series%20and%20Survival%20Analysis) | ✅  |
+| 01.    | [Exploratory Data Analysis for Machine Learning](https://github.com/SRNTHMZMD/MajorProject-IBM-Machine-Learning-Professional-Certificate/tree/main/1-Exploratory%20Data%20Analysis%20for%20Machine%20Learning) | ✅     |
+| 02.    | [Supervised Machine Learning: Regression](https://github.com/SRNTHMZMD/MajorProject-IBM-Machine-Learning-Professional-Certificate/tree/main/2-Supervised%20Machine%20Learning%20Regression)        | ✅     |
+| 03.    | [Supervised Machine Learning: Classification](https://github.com/SRNTHMZMD/MajorProject-IBM-Machine-Learning-Professional-Certificate/tree/main/3-Supervised%20Machine%20Learning%20Classification)    | ✅     |
+| 04.    | [Unsupervised Machine Learning](https://github.com/SRNTHMZMD/MajorProject-IBM-Machine-Learning-Professional-Certificate/tree/main/4-Unsupervised%20Machine%20Learning)                  | ✅     |
+| 05.    | [Deep Learning and Reinforcement Learning](https://github.com/SRNTHMZMD/MajorProject-IBM-Machine-Learning-Professional-Certificate/tree/main/5-Deep%20Learning%20and%20Reinforcement%20Learning)       | ✅     |
+| 06.    | [Specialized Models: Time Series and Survival Analysis](https://github.com/SRNTHMZMD/MajorProject-IBM-Machine-Learning-Professional-Certificate/tree/main/6-Machine%20Learning%20Capstone) | ✅  |
 
 ### About this Professional Certificate:
 
