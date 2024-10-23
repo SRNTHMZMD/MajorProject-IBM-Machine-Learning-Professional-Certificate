@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e51b97ea-d634-4d8e-9aef-1c83ac87db86)
+https://user-images.githubusercontent.com/67054356/132362689-31859a26-5d52-4eff-a4c4-ee6a8fd2f16c.png 
 
 
 ### Major Project - IBM Machine Learning Professional Certificate
